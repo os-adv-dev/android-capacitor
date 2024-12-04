@@ -1,0 +1,10 @@
+{
+  "appId": "com.outsystems.experts.androidcapacitor",
+  "appName": "AndroidCapacitor",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

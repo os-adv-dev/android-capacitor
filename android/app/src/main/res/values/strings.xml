@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AndroidCapacitor</string>
+    <string name="title_activity_main">AndroidCapacitor</string>
+    <string name="package_name">com.outsystems.experts.androidcapacitor</string>
+    <string name="custom_url_scheme">com.outsystems.experts.androidcapacitor</string>
+</resources>
